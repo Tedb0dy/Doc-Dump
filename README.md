@@ -22,3 +22,5 @@ https://github.com/aladdinpersson/Algorithms-Collection-Python
 https://github.com/awesomedata/awesome-public-datasets
 
 https://devpost.com/software
+
+https://cs231n.github.io/python-numpy-tutorial/
