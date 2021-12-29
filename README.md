@@ -73,4 +73,25 @@ https://github.com/gto76/python-cheatsheet
 
 https://www.python.org/dev/peps/pep-0008/ - Python programming practices
 
+https://towardsdatascience.com/write-clean-python-code-using-pipes-1239a0f3abf5
+
+
+# Git Guide
+
+https://kbroman.org/github_tutorial/
+
+
+
+# Trading 
+
+https://www.quantower.com/
+
+https://battleofthequants.com/
+
+
+# Fonts
+
+https://brailleinstitute.org/freefont
+
+
 
