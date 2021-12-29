@@ -71,6 +71,6 @@ https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
 https://github.com/gto76/python-cheatsheet
 
-
+https://www.python.org/dev/peps/pep-0008/ - Python programming practices
 
 
