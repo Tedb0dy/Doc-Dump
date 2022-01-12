@@ -63,7 +63,7 @@ https://cs230.stanford.edu/blog/tensorflow/
 
 https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
-
+http://sp16.datastructur.es/index.html
 
 
 
