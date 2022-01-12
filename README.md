@@ -75,6 +75,10 @@ https://www.python.org/dev/peps/pep-0008/ - Python programming practices
 
 https://towardsdatascience.com/write-clean-python-code-using-pipes-1239a0f3abf5
 
+https://rszalski.github.io/magicmethods/
+
+
+
 
 # Git Guide
 
@@ -94,4 +98,18 @@ https://battleofthequants.com/
 https://brailleinstitute.org/freefont
 
 
+# JS
+
+https://js.evie.dev/
+
+# Projects & Challenges 
+
+https://nedbatchelder.com/text/kindling.html
+
+http://www.pythonchallenge.com/
+
+
+# ProcGen 
+
+https://www.theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch
 
