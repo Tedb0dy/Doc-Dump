@@ -65,6 +65,8 @@ https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
 http://sp16.datastructur.es/index.html
 
+https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/
+
 
 
 # Python Cheatsheet
